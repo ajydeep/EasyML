@@ -1,6 +1,5 @@
 # EasyML - No-Code Machine Learning
 
-![EasyML Screenshot](assets/screenshot.png)
 
 ## 🚀 One-Click Machine Learning
 Automated ML tool that lets anyone build models without coding:
